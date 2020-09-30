@@ -10,3 +10,5 @@
   ### * [Cadastrar Produto](https://github.com/R-DIGITAL/MagecommerceDocsPublic/wiki/Tutorial-%7C-Adicionar-Produto)
   
   ### * [Cadastrar Produto - Variações](https://github.com/R-DIGITAL/MagecommerceDocsPublic/wiki/Tutorial-%7C-Cadastrar-Produtos-Variações)
+  
+  ### * [GTM - Variáveis](https://github.com/R-DIGITAL/MagecommerceDocsPublic/wiki/GTM---Vari%C3%A1veis)
